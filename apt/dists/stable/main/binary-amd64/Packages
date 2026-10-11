@@ -1,0 +1,15 @@
+Package: irodori-table
+Version: 0.11.15
+Architecture: amd64
+Maintainer: you
+Installed-Size: 39921
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Priority: optional
+Filename: pool/main/i/irodori-table/Irodori.Table_0.11.15_amd64.deb
+Size: 14870920
+MD5sum: 07df6abae9533611b64928ebd6e10383
+SHA1: 6a068874b176a4bfcd0bf47016cdb0249576c20e
+SHA256: 5be29dc9757f4e29f7f3c447a0b8532c9408e58dbccc46dedf3713b70b3ccddf
+Description: Fast SQL workbench for Irodori Table
+ (none)
+

@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Irodori Table
+Label: Irodori Table
+Suite: stable
+Codename: stable
+Date: Sun, 11 Oct 2026 03:41:18 GMT
+Architectures: amd64 arm64
+Components: main
+Description: Irodori Table APT repository
+MD5Sum:
+ 30cee49c968d9c23cdb049fbb93678ca 461 main/binary-amd64/Packages
+ b34325e01b130795a8c728ed23aff7e5 351 main/binary-amd64/Packages.gz
+ f69af6ed17ce47852981f08fc4a531de 461 main/binary-arm64/Packages
+ 9ab1a800afc95fa93b8d0ed54ed42de0 350 main/binary-arm64/Packages.gz
+SHA1:
+ 554e2c81527379172a8da37372a6bed19472f503 461 main/binary-amd64/Packages
+ 30793049ca311d366bd4f05875d85a57bfcd04fa 351 main/binary-amd64/Packages.gz
+ a0c44d3b8fae5f860e8156e312bef17f5550e2b2 461 main/binary-arm64/Packages
+ b1c9ed44d83b2fdcdebb61327d3f11744c05361f 350 main/binary-arm64/Packages.gz
+SHA256:
+ ba52dbd4040bc05dfa9febba7905c679c8687a676056a7ce55d2a6440a906959 461 main/binary-amd64/Packages
+ 5d32c93c37f88be4c9ebbaf5e3348b923ca37b1ea3ce2aef42afe3b803c9a93c 351 main/binary-amd64/Packages.gz
+ 57c6481fa03183ee4332706ae7461afc9d507d8516dc86b5a282baf372efa9e2 461 main/binary-arm64/Packages
+ b03c4f54c27f9efe78e71487f1de238afa6112c30cda38feb00146b931cbae12 350 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQS6biOW93B7yVUY+bBM7Cj1sK1BQAUCassFXgAKCRBM7Cj1sK1B
+QNU1AQC+OxFgSgERUJC8vPi2LvXrltLCiSknREqTbykqEsY/LQEA85g9cjd779qd
+Fe76u25RAXaBnQguENv/1imdyZSh3AI=
+=4vUf
+-----END PGP SIGNATURE-----

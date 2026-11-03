@@ -2,22 +2,22 @@ Origin: Irodori Table
 Label: Irodori Table
 Suite: stable
 Codename: stable
-Date: Tue, 03 Nov 2026 06:36:03 GMT
+Date: Tue, 03 Nov 2026 07:55:13 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Irodori Table APT repository
 MD5Sum:
- f7157b0c5a165d171d10e64cef1f63e6 2766 main/binary-amd64/Packages
- d912186d2bd44fa018ea328ea096c347 854 main/binary-amd64/Packages.gz
- 0404d7f3187528683c1bb3e4b6df628b 2766 main/binary-arm64/Packages
- 4c9984a5ed164205ffb34a987eb4b371 858 main/binary-arm64/Packages.gz
+ c4b221d12e7f629d5123ffc3853c2d4d 3227 main/binary-amd64/Packages
+ 6aadb5fca80c66812559e5b024d30081 951 main/binary-amd64/Packages.gz
+ cef5122c0d8edf1127b9e30a78e6bdd8 3227 main/binary-arm64/Packages
+ 5327678c605f531733d1666572c18414 954 main/binary-arm64/Packages.gz
 SHA1:
- 5074629cc5476a5c0bbef5268ffa016bbe464c65 2766 main/binary-amd64/Packages
- e758414098b8a7394417ee0c6e7fdf32dc38e370 854 main/binary-amd64/Packages.gz
- 396b75bf97c7978de48ac32f48aa45af76806e1c 2766 main/binary-arm64/Packages
- 9a3d65823a8c7edeb6b284fecac82f2946560ff7 858 main/binary-arm64/Packages.gz
+ 6cb45a4e78b78ed97ec0ec3919b78e3498ffdedc 3227 main/binary-amd64/Packages
+ 5713e3f733901775d73b7476e73e8467569ff6b1 951 main/binary-amd64/Packages.gz
+ 2dd79baef424cf8b2347a2d107fb84b266946906 3227 main/binary-arm64/Packages
+ 05a0eaf547bc2ca9268b5de3ec8d664edca6a53f 954 main/binary-arm64/Packages.gz
 SHA256:
- 21c5c85f16cefe27b4b644c81c090c3fb54b46f18aebf11ed2e0cf05c173ef89 2766 main/binary-amd64/Packages
- 9d9c6b94800bebc76955bd0cdb04669b1d0dd71d2f8545a80d95df21cc330646 854 main/binary-amd64/Packages.gz
- 86261d55f2f31333025c184c8478d1b28f203c08d6d9971ba5861f5fb2ab44bb 2766 main/binary-arm64/Packages
- f820bc326e8ca11c2cbb5448db5ffee05acf9a558bb06ad86bf1e668f9250814 858 main/binary-arm64/Packages.gz
+ bfecbd9b6497ca2860cab53d921e800671d546709c4784adfb2202e0fdc464da 3227 main/binary-amd64/Packages
+ c464c595da06176fcde58e75444abcc40fa31e0a55176726eb28ff55dd26f5c8 951 main/binary-amd64/Packages.gz
+ 3d8fe7306b3f760744d0a647d547c3aab6f0a43e7d14bc4025237ecb46eb7758 3227 main/binary-arm64/Packages
+ e74fa82d0ebe55f124a40345b194ab8f5cc88c0e319a92f4c7cd692e69aaf64a 954 main/binary-arm64/Packages.gz

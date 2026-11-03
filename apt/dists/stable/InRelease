@@ -5,29 +5,29 @@ Origin: Irodori Table
 Label: Irodori Table
 Suite: stable
 Codename: stable
-Date: Tue, 03 Nov 2026 01:51:08 GMT
+Date: Tue, 03 Nov 2026 06:08:53 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Irodori Table APT repository
 MD5Sum:
- feddfc91fa91a45b553a90e9a5088603 1844 main/binary-amd64/Packages
- dba258f40e3fab2b520ecfdcfff7c511 667 main/binary-amd64/Packages.gz
- e71f48fed9b93c18f955f8f66804dc87 1844 main/binary-arm64/Packages
- 6869fac1bff3b4f344f5225072dd453c 666 main/binary-arm64/Packages.gz
+ ab3d5419a969befe0b7a189fbd6e77a7 2305 main/binary-amd64/Packages
+ 58eb683b6c08239e0907a620a487b960 762 main/binary-amd64/Packages.gz
+ 292efb4cd5d13a8bf58f7abb343cb955 2305 main/binary-arm64/Packages
+ 29abaee93d02ce11280913e76db7e553 764 main/binary-arm64/Packages.gz
 SHA1:
- 551e506f8f28e32b52f95bebf595003107ff4069 1844 main/binary-amd64/Packages
- 96a04c0ed5c07e1bf175a6193918ca2c9766bf1e 667 main/binary-amd64/Packages.gz
- ea12cd113f5e81907aabaf1804369975461dc653 1844 main/binary-arm64/Packages
- 43ca7fb2ed35add5e082da7080ce3e2d975739b5 666 main/binary-arm64/Packages.gz
+ d6a05aae5291dc9935432084d93a70cd17e2e439 2305 main/binary-amd64/Packages
+ 150d0249b2c5859b3fe62aea928043c7a129c27b 762 main/binary-amd64/Packages.gz
+ b70084abf6c48ccb604310126f5427a1e5bdec47 2305 main/binary-arm64/Packages
+ 542b5943202a29783f9a03c35b5f4ebd5318299c 764 main/binary-arm64/Packages.gz
 SHA256:
- a4be3611b473fa44382593a5d00a82e12960afed41ae4a9c9e5a2ab3ef67e05b 1844 main/binary-amd64/Packages
- 83077ff78bd4fdc56e526a83db324afecdff21cb2ee6eebef2c858024070f11d 667 main/binary-amd64/Packages.gz
- 784421073e8d2659ceee7e3e763249adf06cec472c433ee5e9054939d666587f 1844 main/binary-arm64/Packages
- 549c63b33e869366f50a03c447c0bc1a87f5de9a8b936204f2e56fc639ec4e67 666 main/binary-arm64/Packages.gz
+ 0f914e2db56b553480e47dbe9cea39a40b3a6aa917e86c51578fe5d892085d6c 2305 main/binary-amd64/Packages
+ 0ed06cffa8c7e5daa83b9de777c1b459b1282f062e6510174ace2cbfc4f45a5a 762 main/binary-amd64/Packages.gz
+ b6254be09606f2958fbe3f75cd319c031fd9861a7d7552877259d05f31f6d92b 2305 main/binary-arm64/Packages
+ 6ed82388f0921161a6bcdd90b8a2d17ce1989e7239ef00ad423ce6f4385ba31a 764 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS6biOW93B7yVUY+bBM7Cj1sK1BQAUCauk+DAAKCRBM7Cj1sK1B
-QJTEAQDWZ3J/YguiibUcCiZxHTdJWfb3YEUV+ZHNeKOAtHaueQD/Walvy9ORvNP0
-Wt5x9lsrNpW15JzCY8ZCuqmfEEqqpw4=
-=84vk
+iHUEARYKAB0WIQS6biOW93B7yVUY+bBM7Cj1sK1BQAUCaul6dQAKCRBM7Cj1sK1B
+QF2hAQChk/alBMmYlXzohrlMddfgdnCcXi9YsLpU9mfxrZr6lAD/eQyekVYtzWiW
+F4NRomawRH/OJbweu/GzuWP6qk7WNQM=
+=SJyC
 -----END PGP SIGNATURE-----

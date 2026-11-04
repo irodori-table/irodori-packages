@@ -103,3 +103,18 @@ SHA256: 7da186fa642ce3443e4194ea255607c2e56523db0959e54cd1c510bb00828500
 Description: Fast SQL workbench for Irodori Table
  (none)
 
+Package: irodori-table
+Version: 0.11.22
+Architecture: amd64
+Maintainer: you
+Installed-Size: 39836
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Priority: optional
+Filename: pool/main/i/irodori-table/Irodori.Table_0.11.22_amd64.deb
+Size: 14897718
+MD5sum: 6ddc4e1c463186842fd340702fefff24
+SHA1: b8e6dc3c772fafc9568841b1ff073af769103101
+SHA256: 5503191f345cb35f86bf84b6f515f29cb500d1874f82f315c1f8471259860abb
+Description: Fast SQL workbench for Irodori Table
+ (none)
+

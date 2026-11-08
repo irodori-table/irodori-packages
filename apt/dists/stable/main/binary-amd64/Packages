@@ -201,10 +201,10 @@ Installed-Size: 39681
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
 Priority: optional
 Filename: pool/main/i/irodori-table/Irodori.Table_0.16.0_amd64.deb
-Size: 14831072
-MD5sum: d6e850e17e0aa27278d8063e368e66f9
-SHA1: 25c926a3bb5adf43128d6b181f639aac9e858b38
-SHA256: 2c9987da8e5c8f7d6ad8ba3f837012d15a5e85f49dbcd9acfddc42d5b6b17a24
+Size: 14831082
+MD5sum: ee7e22220f913c73805c632b272ded54
+SHA1: 8a3f96827940d98967a31e0b6406282855e4b498
+SHA256: 2c0ba36b44d9a6bc5cd89f9368e694a85220321676b15dce09fcd6ae9a1824dd
 Description: Fast SQL workbench for Irodori Table
  (none)
 
